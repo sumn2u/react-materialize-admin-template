@@ -6,6 +6,7 @@ import LoginPage from './containers/LoginPage';
 import Dashboard from './containers/DashboardPage';
 import FormPage from './containers/FormPage';
 import TablePage from './containers/TablePage';
+import MapPage from './containers/MapPage';
 
 
 export default (
@@ -17,7 +18,7 @@ export default (
      
       <Route path="form" component={FormPage}/>
       <Route path="table" component={TablePage}/>
-     
+      <Route path="maps" component={MapPage}/>
       <Route path="*" component={NotFoundPage}/>
     </Route>
   </Route>

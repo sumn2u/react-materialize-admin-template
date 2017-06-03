@@ -3,6 +3,7 @@ import Assessment from 'material-ui/svg-icons/action/assessment';
 import GridOn from 'material-ui/svg-icons/image/grid-on';
 import PermIdentity from 'material-ui/svg-icons/action/perm-identity';
 import Web from 'material-ui/svg-icons/av/web';
+import AddLocation from 'material-ui/svg-icons/maps/add-location';
 import {cyan600, pink600, purple600} from 'material-ui/styles/colors';
 import ExpandLess from 'material-ui/svg-icons/navigation/expand-less';
 import ExpandMore from 'material-ui/svg-icons/navigation/expand-more';
@@ -13,7 +14,8 @@ const data = {
     { text: 'DashBoard', icon: <Assessment/>, link: '/dashboard' },
     { text: 'Form Page', icon: <Web/>, link: '/form' },
     { text: 'Table Page', icon: <GridOn/>, link: '/table' },
-    { text: 'Login Page', icon: <PermIdentity/>, link: '/login' }
+    { text: 'Login Page', icon: <PermIdentity/>, link: '/login' },
+    { text: 'Map Page', icon: <AddLocation/>, link: '/maps' }
   ],
   tablePage: {
     items: [
