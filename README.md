@@ -1,4 +1,4 @@
-React Ui Materialize Admin Template
+React Materialize UI Admin Template
 ================================
 
 This is a simple responsive admin template using [React](https://facebook.github.io/react/) and [Material-UI](http://www.material-ui.com/) components along with other features such as maps, pagination.
@@ -8,7 +8,7 @@ This is the very first version, feel free to use for any app. Contributions are 
 Demo
 ----
 
-let's wait for few more weeks !
+You can have a demo at here [React Materialize UI Admin Template](https://sumn2u.github.io/react-materialize-admin-template/)
 
 
 Installation / Running
