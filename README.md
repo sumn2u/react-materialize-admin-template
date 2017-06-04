@@ -3,13 +3,7 @@ React Materialize UI Admin Template
 
 This is a simple responsive admin template using [React](https://facebook.github.io/react/) and [Material-UI](http://www.material-ui.com/) components along with other features such as maps, pagination.
 
-[![GitHub issues](https://img.shields.io/github/issues/sumn2u/react-materialize-admin-template.svg)](https://github.com/sumn2u/react-materialize-admin-template/issues)
-
-[![GitHub forks](https://img.shields.io/github/forks/sumn2u/react-materialize-admin-template.svg)](https://github.com/sumn2u/react-materialize-admin-template/network)
-
-[![GitHub stars](https://img.shields.io/github/stars/sumn2u/react-materialize-admin-template.svg)](https://github.com/sumn2u/react-materialize-admin-template/stargazers)
-
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/sumn2u/react-materialize-admin-template.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
+[![GitHub issues](https://img.shields.io/github/issues/sumn2u/react-materialize-admin-template.svg)](https://github.com/sumn2u/react-materialize-admin-template/issues)[![GitHub forks](https://img.shields.io/github/forks/sumn2u/react-materialize-admin-template.svg)](https://github.com/sumn2u/react-materialize-admin-template/network)[![GitHub stars](https://img.shields.io/github/stars/sumn2u/react-materialize-admin-template.svg)](https://github.com/sumn2u/react-materialize-admin-template/stargazers)[![Twitter](https://img.shields.io/twitter/url/https/github.com/sumn2u/react-materialize-admin-template.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
 
 This is the very first version, feel free to use for any app. Contributions are always welcome!
 
