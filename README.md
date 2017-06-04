@@ -21,6 +21,16 @@ Installation / Running
 5. Visit the app at [http://localhost:3000](http://localhost:3000)
 
 
+Testing
+----------------------
+
+1. `npm test` 
+
+Production Build
+----------------------
+
+1. `babel-node tools/build.js && npm run open:dist` 
+
 License
 -------
 MIT
