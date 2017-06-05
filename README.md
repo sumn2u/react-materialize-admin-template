@@ -36,3 +36,5 @@ Production Build
 License
 -------
 MIT
+
+Contributors are welcome !
