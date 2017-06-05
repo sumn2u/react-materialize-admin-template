@@ -15,7 +15,8 @@ const data = {
     { text: 'Form Page', icon: <Web/>, link: '/form' },
     { text: 'Table Page', icon: <GridOn/>, link: '/table' },
     { text: 'Login Page', icon: <PermIdentity/>, link: '/login' },
-    { text: 'Map Page', icon: <AddLocation/>, link: '/maps' }
+    { text: 'Map Page', icon: <AddLocation/>, link: '/maps' },
+    { text: 'Data Table Page', icon: <GridOn/>, link: '/datatable' }
   ],
   tablePage: {
     items: [
@@ -26,7 +27,15 @@ const data = {
       {id: 5, name: 'Product 5', price: '$450.00', category: 'Category 5'},
       {id: 6, name: 'Product 6', price: '$950.00', category: 'Category 6'},
       {id: 7, name: 'Product 7', price: '$550.00', category: 'Category 7'},
-      {id: 8, name: 'Product 8', price: '$750.00', category: 'Category 8'}
+      {id: 8, name: 'Product 8', price: '$750.00', category: 'Category 8'},
+      {id: 9, name: 'Product 9', price: '$50.00', category: 'Category 9'},
+      {id: 10, name: 'Product 10', price: '$150.00', category: 'Category 10'},
+      {id: 11, name: 'Product 11', price: '$250.00', category: 'Category 11'},
+      {id: 12, name: 'Product 12', price: '$70.00', category: 'Category 12'},
+      {id: 13, name: 'Product 13', price: '$450.00', category: 'Category 13'},
+      {id: 14, name: 'Product 14', price: '$950.00', category: 'Category 14'},
+      {id: 15, name: 'Product 15', price: '$550.00', category: 'Category 15'},
+      {id: 16, name: 'Product 18', price: '$750.00', category: 'Category 16'}
     ]
   },
   dashBoardPage: {

@@ -70,3 +70,33 @@ input[name='undefined_filename']{
 #react-paginate a {
     text-decoration: none;
 }
+#react-paginate ul li a {
+  background: #333;
+  padding: 5px 10px;
+  color: #fff;
+}
+#react-paginate ul li {
+  margin: 0 2px;
+}
+#react-paginate ul li:first-child a,
+#react-paginate ul li:last-child a {
+  padding:0;
+  background: transparent;
+  color: #333;
+}
+#react-paginate ul li.disabled a {
+  color: rgba(0,0,0,0.4);
+}
+#react-paginate ul li.active a {
+  background: #ff4081;
+}
+.commentBox{
+    float:right;
+}
+.tableBox{
+
+}
+
+.tableElm ~ div {
+  width: 100%;
+}

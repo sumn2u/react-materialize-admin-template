@@ -44,7 +44,8 @@
     "react-tap-event-plugin": "2.0.1",
     "react-web-notification": "0.2.4",
     "recharts": "0.20.8",
-    "validator": "7.0.0"
+    "validator": "7.0.0",
+    "react-paginate": "4.4.2"
   },
   "devDependencies": {
     "autoprefixer": "6.7.3",
