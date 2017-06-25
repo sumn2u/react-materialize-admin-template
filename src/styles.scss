@@ -100,3 +100,6 @@ input[name='undefined_filename']{
 .tableElm ~ div {
   width: 100%;
 }
+.map-form > .search-input {
+  padding: 0px 0px 0px 5px; position: relative; width: 100%; border: none; outline: none; background-color: rgba(0, 0, 0, 0); color: rgb(66, 66, 66); cursor: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); height: 100%;
+}
